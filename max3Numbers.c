@@ -2,10 +2,10 @@
 int main()
 {
     int a,b,c;
-    printf("Entr a Number");
+    printf("Entr 3 Number");
     scanf("%d%d%d",&a,&b,&c);
 
-    if(a>b && a>c)
+    if(a>=b && a>c)
     printf("max is %d",a);
 
     else if(b>a && b>c)
