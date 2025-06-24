@@ -18,6 +18,7 @@ int main()
      printf("\n sum of odd numbers from 1 to %d=%d",n,oddSum);
 
      return 0;
+     
 
 
 }
